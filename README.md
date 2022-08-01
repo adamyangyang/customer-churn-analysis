@@ -18,7 +18,7 @@ In addition, communicate any additional insights or improvements about the busin
 ### Dashboard v1 interactions
 ![Dashboard v1 Interactions](https://raw.githubusercontent.com/adamyangyang/customer-churn-analysis/main/dashboard/gifs/dashboard-v1.gif)
 
-### Dashboard-v2
+### Dashboard v2
 <img width="800" alt="dashboard-v1" src="https://raw.githubusercontent.com/adamyangyang/customer-churn-analysis/main/dashboard/dashboard-v2.png">
 
 ### Churn analysis based on customer tenure
