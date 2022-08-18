@@ -8,7 +8,7 @@ The goal is to create an easy-to-use dashboard for them to identify which custom
 In addition, communicate any additional insights or improvements about the business can make based on the given dataset about their customers.
 
 ## Data Model
-<img width="800" alt="Data Model" src="https://raw.githubusercontent.com/adamyangyang/call-center-trends-analysis/main/dashboard/call-center-data-model.gif">
+![Data Model](https://raw.githubusercontent.com/adamyangyang/call-center-trends-analysis/main/dashboard/call-center-data-model.gif]
 
 ## Screenshots
 
